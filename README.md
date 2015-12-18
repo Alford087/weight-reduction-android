@@ -1,5 +1,5 @@
 # weight-reduction-android
-#App软件瘦身
+# Android .apk文件大小瘦身
 ###一 从APK的文件结构说起
 >>相关介绍请参见《关于APK瘦身值得分享的一些经验.pdf》
 
