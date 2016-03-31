@@ -86,7 +86,7 @@ FontCreator是做字库最经常使用的程序之一。最重要的原因是它
 2,***FontCreatorManual.pdf***为使用手册    
 3,***FontCreatorSetup.exe***为安装版  
 
-五、 总结 
+五、 小结 
 按以上提供思路去实现APK瘦身 , 实际会发现瘦身并不难 ;  
 另附上APK魔鬼瘦身实践经验分享 ：  http://www.jayfeng.com/2015/12/29/APK瘦身实践/ ;
 
