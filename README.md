@@ -85,3 +85,6 @@ FontCreator是做字库最经常使用的程序之一。最重要的原因是它
 1,***FontCreatorFree.exe*** 为绿色版，无需安装和破解   
 2,***FontCreatorManual.pdf***为使用手册    
 3,***FontCreatorSetup.exe***为安装版  
+
+
+关于APK 瘦身实践经验分享 ， 参考原文链接 http://www.jayfeng.com/2015/12/29/APK瘦身实践/
