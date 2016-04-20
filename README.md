@@ -91,3 +91,6 @@ FontCreator是做字库最经常使用的程序之一。最重要的原因是它
 按以上提供思路去实现APK瘦身 , 实际会发现瘦身不会太复杂 ，只要用心专研，APK的大小肯定会控制下来的。;  
 另附上APK魔鬼瘦身实践经验分享 ：  http://www.jayfeng.com/2015/12/29/APK瘦身实践/ ;
 
+
+https://github.com/facebook/redex
+
